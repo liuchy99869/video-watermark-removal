@@ -1,0 +1,4 @@
+interface:
+  display_name: "Video Watermark Removal"
+  short_description: "Remove video watermarks with localized repair"
+  default_prompt: "Remove the watermark from this user-provided video, preserve its audio and dimensions, and verify the edited output."
